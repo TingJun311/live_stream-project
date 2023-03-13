@@ -1,4 +1,5 @@
 # Video Call Project
+> NOTED THAT: before running any `make` command, please install Docker in your OS system and have them running.
 
 ## Development
 
